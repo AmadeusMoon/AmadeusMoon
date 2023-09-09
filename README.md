@@ -1,7 +1,7 @@
 ### Hi there 👋
-![AmadeusMoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmadeusMoon&show_icons=true&theme=tokyonight)
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AmadeusMoon)](https://github.com/AmadeusMoon/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmadeusMoon&layout=pie)](https://github.com/AmadeusMoon/github-readme-stats)
+![AmadeusMoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmadeusMoon&show_icons=true&theme=transparent)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AmadeusMoon&theme=transparent)](https://github.com/AmadeusMoon/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmadeusMoon&layout=pie&theme=transparent)](https://github.com/AmadeusMoon/github-readme-stats)
 
 <!--
 **AmadeusMoon/AmadeusMoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
