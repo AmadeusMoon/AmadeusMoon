@@ -1,5 +1,6 @@
 ### Hi there 👋
-(https://github-readme-stats.vercel.app/api?username=AmadeusMoon&show_icons=true&theme=tokyonight)
+![AmadeusMoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmadeusMoon&show_icons=true&theme=tokyonight)
+
 <!--
 **AmadeusMoon/AmadeusMoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
