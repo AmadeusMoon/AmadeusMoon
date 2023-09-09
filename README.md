@@ -1,5 +1,6 @@
 ### Hi there 👋
 ![AmadeusMoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmadeusMoon&show_icons=true&theme=tokyonight)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AmadeusMoon)](https://github.com/AmadeusMoon/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmadeusMoon&layout=pie)](https://github.com/AmadeusMoon/github-readme-stats)
 
 <!--
