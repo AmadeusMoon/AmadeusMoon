@@ -8,7 +8,7 @@
 
 ### ❇ My drive 
 
-Pure fantasy, freedom through evolution. But if we don't build it just because it sounds absurd, who will ? 
+Pure fantasy, freedom through evolution. But if we don't build it just because it sounds absurd, who will? 
 
 
 <a href="https://github.com/AmadeusMoon/github-readme-stats">
