@@ -4,7 +4,7 @@
   
   I have stashes of projects that might never see the light of day, everytime I feel inspired I note things down, although I might not know how to realize it or never will, the idea survives.
 
-  Future goals are the Cs and Rust, looking to work in the backend with a lot of data, I do like data but you know whats better than data? Data put to use by efficient aplications.
+  Future goals are the Cs and Rust, looking to work in the backend with a lot of data, I do like data but you know whats better than data? Data put to use by efficient applications.
 
 ### ❇ My drive 
 
