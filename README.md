@@ -1,6 +1,4 @@
-# Looking to make a change
-
-### 📓 A little about myself before we move to stats
+## 📓 A little about myself before we move to stats
 
  I started coding to improve my life, it wasn't something I enjoyed from the start but something I grew to like and currently there are so many uses to coding I simply cannot quit it.
   
@@ -11,6 +9,7 @@
 ### ❇ My drive ? 
 
 Pure fantasy, freedom through evolution. But if we don't build it just because it sounds absurd, who will ? 
+
 
 <a href="https://github.com/AmadeusMoon/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AmadeusMoon&theme=transparent" />
