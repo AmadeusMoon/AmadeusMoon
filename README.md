@@ -6,7 +6,7 @@
 
   Future goals are the Cs and Rust, looking to work in the backend with a lot of data, I do like data but you know what's better than data? Data put to use by efficient applications.
 
-### ❇ My drive 
+### 🎇 My drive 
 
 Pure fantasy, freedom through evolution. But if we don't build it just because it sounds absurd, who will? 
 
