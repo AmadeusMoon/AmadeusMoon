@@ -1,6 +1,6 @@
 ## 📓 A little about myself before we move to stats
 
- I started coding to improve my life, it wasn't something I enjoyed from the start but something I grew to like and currently there are so many uses to coding I simply cannot quit it.
+ I started coding to improve my life, I grew to like it and currently there are so many uses to coding I simply cannot quit it.
   
   I have stashes of projects that might never see the light of day, everytime I feel inspired I note things down, although I might not know how to realize it or never will, the ideas survive.
 
