@@ -4,7 +4,7 @@
   
  I have stashes of projects that might never see the light of day, everytime I feel inspired I note things down, although I might not know how to realize it or never will, the ideas survive.
 
- Future goals are the Cs and Rust, looking to work in the backend with a lot of data, I do like data but you know what's better than data? Data put to use by efficient applications.
+ For the last year I found that I really enjoy cybersecurity since it has everything I was looking for, moving forward I will be pivoting into that sector.
 
 ### 🎇 My drive 
 
