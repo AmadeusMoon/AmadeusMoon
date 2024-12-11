@@ -8,7 +8,7 @@
 
 ### 🎇 My drive 
 
-Pure fantasy, freedom through evolution. But if we don't build it just because it sounds absurd, who will? 
+Pure fantasy, freedom through evolution. But if we don't do it just because it sounds absurd, who will? 
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/AmadeusMoon.png" alt="Your Image Badge" />
 <a href="https://github.com/AmadeusMoon/github-readme-stats">
