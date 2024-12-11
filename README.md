@@ -2,9 +2,9 @@
 
  I started coding to improve my life, I grew to like it and currently there are so many uses to coding I simply cannot quit it.
   
-  I have stashes of projects that might never see the light of day, everytime I feel inspired I note things down, although I might not know how to realize it or never will, the ideas survive.
+ I have stashes of projects that might never see the light of day, everytime I feel inspired I note things down, although I might not know how to realize it or never will, the ideas survive.
 
-  Future goals are the Cs and Rust, looking to work in the backend with a lot of data, I do like data but you know what's better than data? Data put to use by efficient applications.
+ Future goals are the Cs and Rust, looking to work in the backend with a lot of data, I do like data but you know what's better than data? Data put to use by efficient applications.
 
 ### 🎇 My drive 
 
@@ -17,9 +17,9 @@ Pure fantasy, freedom through evolution. But if we don't build it just because i
 <a href='https://github.com/AmadeusMoon/github-readme-stats'>
   <img width=463 align="center" src='https://github-readme-stats.vercel.app/api/wakatime?username=AmadeusMoon&theme=transparent'/>
 </a>
-
-
-
+<a>
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3179265" style='border:none;'></iframe>
+</a>
 <!--
 **AmadeusMoon/AmadeusMoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
