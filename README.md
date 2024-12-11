@@ -10,13 +10,13 @@
 
 Pure fantasy, freedom through evolution. But if we don't build it just because it sounds absurd, who will? 
 
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/AmadeusMoon.png" alt="Your Image Badge" />
 <a href="https://github.com/AmadeusMoon/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AmadeusMoon&theme=transparent" />
 </a>
 <a href='https://github.com/AmadeusMoon/github-readme-stats'>
   <img width=463 align="center" src='https://github-readme-stats.vercel.app/api/wakatime?username=AmadeusMoon&theme=transparent'/>
 </a>
-<img src="https://tryhackme-badges.s3.amazonaws.com/AmadeusMoon.png" alt="Your Image Badge" />
+
 
 
