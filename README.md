@@ -15,7 +15,7 @@ Pure fantasy, freedom through evolution. But if we don't do it just because it s
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AmadeusMoon&theme=transparent" />
 </a>
 <a href='https://github.com/AmadeusMoon/github-readme-stats'>
-  <img width=463 align="center" src='https://github-readme-stats.vercel.app/api/wakatime?username=AmadeusMoon&theme=transparent'/>
+ <img src="https://tryhackme-badges.s3.amazonaws.com/AmadeusSlabu.png" alt="Your Image Badge" />
 </a>
 
 
