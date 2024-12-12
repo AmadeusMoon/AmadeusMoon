@@ -14,9 +14,7 @@ Pure fantasy, freedom through evolution. But if we don't do it just because it s
 <a href="https://github.com/AmadeusSlabu/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AmadeusSlabu&theme=transparent" />
 </a>
-<a href='https://github.com/AmadeusSlabu/github-readme-stats'>
-<img width=463 align="center" src='https://github-readme-stats.vercel.app/api/wakatime?username=AmadeusSlabu&theme=transparent'/>
-</a>
+
 
 
 
